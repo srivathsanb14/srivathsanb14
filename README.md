@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srivathsan
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning application of Natural Language Processing in real-world scenarios
+- 🌱 I’m currently working on AI applications in (bio)chemical fields
 - 📫 You can reach out to me via mail at srivathsanb14@gmail.com 
 
 <!---
